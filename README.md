@@ -26,10 +26,10 @@ This app can be used to upload any clean dataset in csv format and then read the
 
 ### 1. Home Page
 <pre>
-<img src="https://github.com/user-attachments/assets/12f124f4-1438-4fe4-ad91-d694114da77b" width="1010"> 
+<img src="https://github.com/user-attachments/assets/12f124f4-1438-4fe4-ad91-d694114da77b" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/163700945-a06bc83f-f32e-4ec3-bdd5-2f6b2c9f7781.png" width="1010">
 </pre>
 
 ### 2. Plots
 <pre>
-<img src="https://user-images.githubusercontent.com/78029145/167254464-c0f619dd-562d-4d6d-9b1b-7dcfcf2171a0.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254518-c9ca3f83-f5e9-42af-badc-77bc767d882f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254566-4111fa14-dc7a-4924-a936-2c39fc9b35d5.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254666-808860e5-4845-4383-bc91-8eb53661fb23.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254741-acd10b2e-6e11-40fc-b61f-d19de80e7745.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254775-f8f20269-d9bd-492a-a705-e1a822c65796.png" width="1010"> 
+<img src="https://github.com/user-attachments/assets/db273ae7-4760-4445-b51d-e829dca640fc" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254518-c9ca3f83-f5e9-42af-badc-77bc767d882f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254566-4111fa14-dc7a-4924-a936-2c39fc9b35d5.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254666-808860e5-4845-4383-bc91-8eb53661fb23.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254741-acd10b2e-6e11-40fc-b61f-d19de80e7745.png" width="1010"> <img src="https://user-images.githubusercontent.com/78029145/167254775-f8f20269-d9bd-492a-a705-e1a822c65796.png" width="1010"> 
 </pre>
