@@ -20,7 +20,7 @@ This app can be used to upload any clean dataset in csv format and then read the
 
 - The web application is built using python library -> Streamlit
 - The entire application is finally deployed on Streamlit Share Platform
-- See the deployed application [here](https://share.streamlit.io/bhaswatiroy/visualization-datashow/main/app.py)
+- See the deployed application [here](https://plotify-data.streamlit.app/)
 
 ## UI Of The Web Application
 
